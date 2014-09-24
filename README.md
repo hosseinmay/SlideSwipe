@@ -1,4 +1,4 @@
 Slide Swipe
 ==========
 By: HM
-Use gestures to scroll through your photos!  Uses OpenCV!
+TODO: Use gestures to scroll through your photos.  Use OpenCV.
